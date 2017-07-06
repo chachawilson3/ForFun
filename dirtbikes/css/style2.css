@@ -1,0 +1,29 @@
+
+.this{
+	padding-top:100px;
+}
+.this ul{
+	float: right;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.this ul li a{
+	display: block;
+	width: 120px;
+	padding: 10px;
+	margin: 0 5px 5px; 
+	background-color:#ccc;
+}
+
+
+#poo{
+	background-color: #FEE294;
+	margin-top: 50px;
+	height: 450px;
+	width: 450px;
+	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+}
